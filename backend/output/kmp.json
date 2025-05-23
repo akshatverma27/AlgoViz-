@@ -1,0 +1,128 @@
+{
+    "input_text": "aajfjfdjksk",
+    "matches": [
+        0
+    ],
+    "memory_used_bytes": 13,
+    "pattern": "aa",
+    "steps": [
+        {
+            "description": "Computed LPS[1] = 1",
+            "extra_info": {
+                "LPS": 1,
+                "i": 1
+            },
+            "pseudocode_line": "4",
+            "step_id": 1
+        },
+        {
+            "description": "Text character a compared to pattern character a",
+            "extra_info": {
+                "i": 1,
+                "j": 1
+            },
+            "pseudocode_line": "5",
+            "step_id": 2
+        },
+        {
+            "description": "Text character j compared to pattern character a",
+            "extra_info": {
+                "i": 2,
+                "j": 1
+            },
+            "pseudocode_line": "5",
+            "step_id": 3
+        },
+        {
+            "description": "Text character j compared to pattern character a",
+            "extra_info": {
+                "i": 2,
+                "j": 0
+            },
+            "pseudocode_line": "5",
+            "step_id": 4
+        },
+        {
+            "description": "Text character f compared to pattern character a",
+            "extra_info": {
+                "i": 3,
+                "j": 0
+            },
+            "pseudocode_line": "5",
+            "step_id": 5
+        },
+        {
+            "description": "Text character j compared to pattern character a",
+            "extra_info": {
+                "i": 4,
+                "j": 0
+            },
+            "pseudocode_line": "5",
+            "step_id": 6
+        },
+        {
+            "description": "Text character f compared to pattern character a",
+            "extra_info": {
+                "i": 5,
+                "j": 0
+            },
+            "pseudocode_line": "5",
+            "step_id": 7
+        },
+        {
+            "description": "Text character d compared to pattern character a",
+            "extra_info": {
+                "i": 6,
+                "j": 0
+            },
+            "pseudocode_line": "5",
+            "step_id": 8
+        },
+        {
+            "description": "Text character j compared to pattern character a",
+            "extra_info": {
+                "i": 7,
+                "j": 0
+            },
+            "pseudocode_line": "5",
+            "step_id": 9
+        },
+        {
+            "description": "Text character k compared to pattern character a",
+            "extra_info": {
+                "i": 8,
+                "j": 0
+            },
+            "pseudocode_line": "5",
+            "step_id": 10
+        },
+        {
+            "description": "Text character s compared to pattern character a",
+            "extra_info": {
+                "i": 9,
+                "j": 0
+            },
+            "pseudocode_line": "5",
+            "step_id": 11
+        },
+        {
+            "description": "Text character k compared to pattern character a",
+            "extra_info": {
+                "i": 10,
+                "j": 0
+            },
+            "pseudocode_line": "5",
+            "step_id": 12
+        },
+        {
+            "description": "Text character \u0000 compared to pattern character a",
+            "extra_info": {
+                "i": 11,
+                "j": 0
+            },
+            "pseudocode_line": "5",
+            "step_id": 13
+        }
+    ],
+    "time_taken_ms": 2.639
+}

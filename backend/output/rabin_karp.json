@@ -1,0 +1,142 @@
+[
+    {
+        "description": "Hash did not match at index 0",
+        "extra_info": {
+            "i": 0,
+            "pattern_hash": 59,
+            "text_window_hash": 34
+        },
+        "pseudocode_line": "if (p == t)",
+        "step_id": 1
+    },
+    {
+        "description": "Hash did not match at index 1",
+        "extra_info": {
+            "i": 1,
+            "pattern_hash": 59,
+            "text_window_hash": 34
+        },
+        "pseudocode_line": "if (p == t)",
+        "step_id": 2
+    },
+    {
+        "description": "Hash did not match at index 2",
+        "extra_info": {
+            "i": 2,
+            "pattern_hash": 59,
+            "text_window_hash": 34
+        },
+        "pseudocode_line": "if (p == t)",
+        "step_id": 3
+    },
+    {
+        "description": "Hash did not match at index 3",
+        "extra_info": {
+            "i": 3,
+            "pattern_hash": 59,
+            "text_window_hash": 34
+        },
+        "pseudocode_line": "if (p == t)",
+        "step_id": 4
+    },
+    {
+        "description": "Hash did not match at index 4",
+        "extra_info": {
+            "i": 4,
+            "pattern_hash": 59,
+            "text_window_hash": 34
+        },
+        "pseudocode_line": "if (p == t)",
+        "step_id": 5
+    },
+    {
+        "description": "Hash did not match at index 5",
+        "extra_info": {
+            "i": 5,
+            "pattern_hash": 59,
+            "text_window_hash": 43
+        },
+        "pseudocode_line": "if (p == t)",
+        "step_id": 6
+    },
+    {
+        "description": "Hash did not match at index 6",
+        "extra_info": {
+            "i": 6,
+            "pattern_hash": 59,
+            "text_window_hash": 24
+        },
+        "pseudocode_line": "if (p == t)",
+        "step_id": 7
+    },
+    {
+        "description": "Hash did not match at index 7",
+        "extra_info": {
+            "i": 7,
+            "pattern_hash": 59,
+            "text_window_hash": 8
+        },
+        "pseudocode_line": "if (p == t)",
+        "step_id": 8
+    },
+    {
+        "description": "Hash did not match at index 8",
+        "extra_info": {
+            "i": 8,
+            "pattern_hash": 59,
+            "text_window_hash": 8
+        },
+        "pseudocode_line": "if (p == t)",
+        "step_id": 9
+    },
+    {
+        "description": "Hash did not match at index 9",
+        "extra_info": {
+            "i": 9,
+            "pattern_hash": 59,
+            "text_window_hash": 8
+        },
+        "pseudocode_line": "if (p == t)",
+        "step_id": 10
+    },
+    {
+        "description": "Hash did not match at index 10",
+        "extra_info": {
+            "i": 10,
+            "pattern_hash": 59,
+            "text_window_hash": 8
+        },
+        "pseudocode_line": "if (p == t)",
+        "step_id": 11
+    },
+    {
+        "description": "Hash did not match at index 11",
+        "extra_info": {
+            "i": 11,
+            "pattern_hash": 59,
+            "text_window_hash": 8
+        },
+        "pseudocode_line": "if (p == t)",
+        "step_id": 12
+    },
+    {
+        "description": "Hash did not match at index 12",
+        "extra_info": {
+            "i": 12,
+            "pattern_hash": 59,
+            "text_window_hash": 8
+        },
+        "pseudocode_line": "if (p == t)",
+        "step_id": 13
+    },
+    {
+        "description": "Hash did not match at index 13",
+        "extra_info": {
+            "i": 13,
+            "pattern_hash": 59,
+            "text_window_hash": 8
+        },
+        "pseudocode_line": "if (p == t)",
+        "step_id": 14
+    }
+]

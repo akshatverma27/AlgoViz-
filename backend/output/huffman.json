@@ -1,0 +1,306 @@
+{
+    "encoded": "11011100100011100010111011111101100001010000010111100101101",
+    "input": "\"Aakashchutiyahai\"",
+    "memory_used_bytes": 880,
+    "steps": [
+        {
+            "description": "Pushed leaf node 'y' with freq 1",
+            "extra_info": {
+                "char": "y",
+                "freq": 1
+            },
+            "pseudocode_line": "2",
+            "step_id": 1
+        },
+        {
+            "description": "Pushed leaf node 'i' with freq 2",
+            "extra_info": {
+                "char": "i",
+                "freq": 2
+            },
+            "pseudocode_line": "2",
+            "step_id": 2
+        },
+        {
+            "description": "Pushed leaf node 't' with freq 1",
+            "extra_info": {
+                "char": "t",
+                "freq": 1
+            },
+            "pseudocode_line": "2",
+            "step_id": 3
+        },
+        {
+            "description": "Pushed leaf node 's' with freq 1",
+            "extra_info": {
+                "char": "s",
+                "freq": 1
+            },
+            "pseudocode_line": "2",
+            "step_id": 4
+        },
+        {
+            "description": "Pushed leaf node 'k' with freq 1",
+            "extra_info": {
+                "char": "k",
+                "freq": 1
+            },
+            "pseudocode_line": "2",
+            "step_id": 5
+        },
+        {
+            "description": "Pushed leaf node 'a' with freq 4",
+            "extra_info": {
+                "char": "a",
+                "freq": 4
+            },
+            "pseudocode_line": "2",
+            "step_id": 6
+        },
+        {
+            "description": "Pushed leaf node 'u' with freq 1",
+            "extra_info": {
+                "char": "u",
+                "freq": 1
+            },
+            "pseudocode_line": "2",
+            "step_id": 7
+        },
+        {
+            "description": "Pushed leaf node 'h' with freq 3",
+            "extra_info": {
+                "char": "h",
+                "freq": 3
+            },
+            "pseudocode_line": "2",
+            "step_id": 8
+        },
+        {
+            "description": "Pushed leaf node 'A' with freq 1",
+            "extra_info": {
+                "char": "A",
+                "freq": 1
+            },
+            "pseudocode_line": "2",
+            "step_id": 9
+        },
+        {
+            "description": "Pushed leaf node 'c' with freq 1",
+            "extra_info": {
+                "char": "c",
+                "freq": 1
+            },
+            "pseudocode_line": "2",
+            "step_id": 10
+        },
+        {
+            "description": "Pushed leaf node '\"' with freq 2",
+            "extra_info": {
+                "char": "\"",
+                "freq": 2
+            },
+            "pseudocode_line": "2",
+            "step_id": 11
+        },
+        {
+            "description": "Merged nodes with freq 1 and 1",
+            "extra_info": {
+                "left_freq": 1,
+                "parent_freq": 2,
+                "right_freq": 1
+            },
+            "pseudocode_line": "4",
+            "step_id": 12
+        },
+        {
+            "description": "Merged nodes with freq 1 and 1",
+            "extra_info": {
+                "left_freq": 1,
+                "parent_freq": 2,
+                "right_freq": 1
+            },
+            "pseudocode_line": "4",
+            "step_id": 13
+        },
+        {
+            "description": "Merged nodes with freq 1 and 1",
+            "extra_info": {
+                "left_freq": 1,
+                "parent_freq": 2,
+                "right_freq": 1
+            },
+            "pseudocode_line": "4",
+            "step_id": 14
+        },
+        {
+            "description": "Merged nodes with freq 1 and 2",
+            "extra_info": {
+                "left_freq": 1,
+                "parent_freq": 3,
+                "right_freq": 2
+            },
+            "pseudocode_line": "4",
+            "step_id": 15
+        },
+        {
+            "description": "Merged nodes with freq 2 and 2",
+            "extra_info": {
+                "left_freq": 2,
+                "parent_freq": 4,
+                "right_freq": 2
+            },
+            "pseudocode_line": "4",
+            "step_id": 16
+        },
+        {
+            "description": "Merged nodes with freq 2 and 2",
+            "extra_info": {
+                "left_freq": 2,
+                "parent_freq": 4,
+                "right_freq": 2
+            },
+            "pseudocode_line": "4",
+            "step_id": 17
+        },
+        {
+            "description": "Merged nodes with freq 3 and 3",
+            "extra_info": {
+                "left_freq": 3,
+                "parent_freq": 6,
+                "right_freq": 3
+            },
+            "pseudocode_line": "4",
+            "step_id": 18
+        },
+        {
+            "description": "Merged nodes with freq 4 and 4",
+            "extra_info": {
+                "left_freq": 4,
+                "parent_freq": 8,
+                "right_freq": 4
+            },
+            "pseudocode_line": "4",
+            "step_id": 19
+        },
+        {
+            "description": "Merged nodes with freq 4 and 6",
+            "extra_info": {
+                "left_freq": 4,
+                "parent_freq": 10,
+                "right_freq": 6
+            },
+            "pseudocode_line": "4",
+            "step_id": 20
+        },
+        {
+            "description": "Merged nodes with freq 8 and 10",
+            "extra_info": {
+                "left_freq": 8,
+                "parent_freq": 18,
+                "right_freq": 10
+            },
+            "pseudocode_line": "4",
+            "step_id": 21
+        },
+        {
+            "description": "Assigned code to character 'y': 0000",
+            "extra_info": {
+                "char": "y",
+                "code": "0000"
+            },
+            "pseudocode_line": "6",
+            "step_id": 22
+        },
+        {
+            "description": "Assigned code to character 't': 0001",
+            "extra_info": {
+                "char": "t",
+                "code": "0001"
+            },
+            "pseudocode_line": "6",
+            "step_id": 23
+        },
+        {
+            "description": "Assigned code to character 's': 0010",
+            "extra_info": {
+                "char": "s",
+                "code": "0010"
+            },
+            "pseudocode_line": "6",
+            "step_id": 24
+        },
+        {
+            "description": "Assigned code to character 'k': 0011",
+            "extra_info": {
+                "char": "k",
+                "code": "0011"
+            },
+            "pseudocode_line": "6",
+            "step_id": 25
+        },
+        {
+            "description": "Assigned code to character 'i': 010",
+            "extra_info": {
+                "char": "i",
+                "code": "010"
+            },
+            "pseudocode_line": "6",
+            "step_id": 26
+        },
+        {
+            "description": "Assigned code to character 'u': 0110",
+            "extra_info": {
+                "char": "u",
+                "code": "0110"
+            },
+            "pseudocode_line": "6",
+            "step_id": 27
+        },
+        {
+            "description": "Assigned code to character 'c': 0111",
+            "extra_info": {
+                "char": "c",
+                "code": "0111"
+            },
+            "pseudocode_line": "6",
+            "step_id": 28
+        },
+        {
+            "description": "Assigned code to character 'a': 10",
+            "extra_info": {
+                "char": "a",
+                "code": "10"
+            },
+            "pseudocode_line": "6",
+            "step_id": 29
+        },
+        {
+            "description": "Assigned code to character 'A': 1100",
+            "extra_info": {
+                "char": "A",
+                "code": "1100"
+            },
+            "pseudocode_line": "6",
+            "step_id": 30
+        },
+        {
+            "description": "Assigned code to character '\"': 1101",
+            "extra_info": {
+                "char": "\"",
+                "code": "1101"
+            },
+            "pseudocode_line": "6",
+            "step_id": 31
+        },
+        {
+            "description": "Assigned code to character 'h': 111",
+            "extra_info": {
+                "char": "h",
+                "code": "111"
+            },
+            "pseudocode_line": "6",
+            "step_id": 32
+        }
+    ],
+    "time_taken_ms": 0.0
+}

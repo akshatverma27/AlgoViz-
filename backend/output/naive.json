@@ -1,0 +1,182 @@
+[
+    {
+        "description": "Match at text[0] and pattern[0]",
+        "extra_info": {
+            "i": 0,
+            "j": 0,
+            "pattern[j]": 97,
+            "text[i+j]": 97
+        },
+        "pseudocode_line": "if text[i + j] != pattern[j]",
+        "step_id": 2
+    },
+    {
+        "description": "Match at text[1] and pattern[1]",
+        "extra_info": {
+            "i": 0,
+            "j": 1,
+            "pattern[j]": 97,
+            "text[i+j]": 97
+        },
+        "pseudocode_line": "if text[i + j] != pattern[j]",
+        "step_id": 3
+    },
+    {
+        "description": "Pattern found at index 0",
+        "extra_info": {
+            "i": 0
+        },
+        "pseudocode_line": "for i in 0 to n - m",
+        "step_id": 1
+    },
+    {
+        "description": "Match at text[1] and pattern[0]",
+        "extra_info": {
+            "i": 1,
+            "j": 0,
+            "pattern[j]": 97,
+            "text[i+j]": 97
+        },
+        "pseudocode_line": "if text[i + j] != pattern[j]",
+        "step_id": 5
+    },
+    {
+        "description": "Match at text[2] and pattern[1]",
+        "extra_info": {
+            "i": 1,
+            "j": 1,
+            "pattern[j]": 97,
+            "text[i+j]": 97
+        },
+        "pseudocode_line": "if text[i + j] != pattern[j]",
+        "step_id": 6
+    },
+    {
+        "description": "Pattern found at index 1",
+        "extra_info": {
+            "i": 1
+        },
+        "pseudocode_line": "for i in 0 to n - m",
+        "step_id": 4
+    },
+    {
+        "description": "Match at text[2] and pattern[0]",
+        "extra_info": {
+            "i": 2,
+            "j": 0,
+            "pattern[j]": 97,
+            "text[i+j]": 97
+        },
+        "pseudocode_line": "if text[i + j] != pattern[j]",
+        "step_id": 8
+    },
+    {
+        "description": "Match at text[3] and pattern[1]",
+        "extra_info": {
+            "i": 2,
+            "j": 1,
+            "pattern[j]": 97,
+            "text[i+j]": 97
+        },
+        "pseudocode_line": "if text[i + j] != pattern[j]",
+        "step_id": 9
+    },
+    {
+        "description": "Pattern found at index 2",
+        "extra_info": {
+            "i": 2
+        },
+        "pseudocode_line": "for i in 0 to n - m",
+        "step_id": 7
+    },
+    {
+        "description": "Match at text[3] and pattern[0]",
+        "extra_info": {
+            "i": 3,
+            "j": 0,
+            "pattern[j]": 97,
+            "text[i+j]": 97
+        },
+        "pseudocode_line": "if text[i + j] != pattern[j]",
+        "step_id": 11
+    },
+    {
+        "description": "Match at text[4] and pattern[1]",
+        "extra_info": {
+            "i": 3,
+            "j": 1,
+            "pattern[j]": 97,
+            "text[i+j]": 97
+        },
+        "pseudocode_line": "if text[i + j] != pattern[j]",
+        "step_id": 12
+    },
+    {
+        "description": "Pattern found at index 3",
+        "extra_info": {
+            "i": 3
+        },
+        "pseudocode_line": "for i in 0 to n - m",
+        "step_id": 10
+    },
+    {
+        "description": "Match at text[4] and pattern[0]",
+        "extra_info": {
+            "i": 4,
+            "j": 0,
+            "pattern[j]": 97,
+            "text[i+j]": 97
+        },
+        "pseudocode_line": "if text[i + j] != pattern[j]",
+        "step_id": 14
+    },
+    {
+        "description": "Match at text[5] and pattern[1]",
+        "extra_info": {
+            "i": 4,
+            "j": 1,
+            "pattern[j]": 97,
+            "text[i+j]": 97
+        },
+        "pseudocode_line": "if text[i + j] != pattern[j]",
+        "step_id": 15
+    },
+    {
+        "description": "Pattern found at index 4",
+        "extra_info": {
+            "i": 4
+        },
+        "pseudocode_line": "for i in 0 to n - m",
+        "step_id": 13
+    },
+    {
+        "description": "Match at text[5] and pattern[0]",
+        "extra_info": {
+            "i": 5,
+            "j": 0,
+            "pattern[j]": 97,
+            "text[i+j]": 97
+        },
+        "pseudocode_line": "if text[i + j] != pattern[j]",
+        "step_id": 17
+    },
+    {
+        "description": "Match at text[6] and pattern[1]",
+        "extra_info": {
+            "i": 5,
+            "j": 1,
+            "pattern[j]": 97,
+            "text[i+j]": 97
+        },
+        "pseudocode_line": "if text[i + j] != pattern[j]",
+        "step_id": 18
+    },
+    {
+        "description": "Pattern found at index 5",
+        "extra_info": {
+            "i": 5
+        },
+        "pseudocode_line": "for i in 0 to n - m",
+        "step_id": 16
+    }
+]
